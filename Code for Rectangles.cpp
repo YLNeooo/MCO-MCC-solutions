@@ -21,3 +21,4 @@ int main() {
 	}
 	cout << dp[N][K] << '\n'; //print final answer
 }
+
